@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @MeTicals, a graduate student from Xidian university
-- 😄 Sometimes I post some videos on bilibili (https://space.bilibili.com/570622)
-- 👀 I’m interested in unity3D/C#/C++
+
 - 👉 I will record some learning process of unity shader here
-- 
-- 👋 嗨，你可以叫我暄暄，现在还在读书打工呜呜呜
-- 😄 来B站可以催我发发视频之类的(https://space.bilibili.com/570622)
-- 👀 暂时对unity比较感兴趣哈哈哈不知道以后会移情别恋到什么东西
+
 - 👉 这个仓库主要记录和分享我学习的shader源码
